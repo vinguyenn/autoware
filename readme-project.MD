@@ -1,5 +1,5 @@
 # Group-465
-Group members: Mariam Khan, Vi Nyugen, Beth Haessler
+Group members: Mariam Khan, Vi Nguyen, Beth Haessler
 
 Project Description: Final Project for 465 (Secure Transportation Systems)
 
